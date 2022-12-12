@@ -1,0 +1,16 @@
+C:\Users\tsfel\OneDrive\Documentos\IBRF\M2\modulo03\aula02\ExerciciosAula04Mod03\ExerciciosAula04Mod03\bin\Debug\net5.0\ExerciciosAula04Mod03.exe
+C:\Users\tsfel\OneDrive\Documentos\IBRF\M2\modulo03\aula02\ExerciciosAula04Mod03\ExerciciosAula04Mod03\bin\Debug\net5.0\ExerciciosAula04Mod03.deps.json
+C:\Users\tsfel\OneDrive\Documentos\IBRF\M2\modulo03\aula02\ExerciciosAula04Mod03\ExerciciosAula04Mod03\bin\Debug\net5.0\ExerciciosAula04Mod03.runtimeconfig.json
+C:\Users\tsfel\OneDrive\Documentos\IBRF\M2\modulo03\aula02\ExerciciosAula04Mod03\ExerciciosAula04Mod03\bin\Debug\net5.0\ExerciciosAula04Mod03.runtimeconfig.dev.json
+C:\Users\tsfel\OneDrive\Documentos\IBRF\M2\modulo03\aula02\ExerciciosAula04Mod03\ExerciciosAula04Mod03\bin\Debug\net5.0\ExerciciosAula04Mod03.dll
+C:\Users\tsfel\OneDrive\Documentos\IBRF\M2\modulo03\aula02\ExerciciosAula04Mod03\ExerciciosAula04Mod03\bin\Debug\net5.0\ExerciciosAula04Mod03.pdb
+C:\Users\tsfel\OneDrive\Documentos\IBRF\M2\modulo03\aula02\ExerciciosAula04Mod03\ExerciciosAula04Mod03\obj\Debug\net5.0\ExerciciosAula04Mod03.csproj.AssemblyReference.cache
+C:\Users\tsfel\OneDrive\Documentos\IBRF\M2\modulo03\aula02\ExerciciosAula04Mod03\ExerciciosAula04Mod03\obj\Debug\net5.0\ExerciciosAula04Mod03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tsfel\OneDrive\Documentos\IBRF\M2\modulo03\aula02\ExerciciosAula04Mod03\ExerciciosAula04Mod03\obj\Debug\net5.0\ExerciciosAula04Mod03.AssemblyInfoInputs.cache
+C:\Users\tsfel\OneDrive\Documentos\IBRF\M2\modulo03\aula02\ExerciciosAula04Mod03\ExerciciosAula04Mod03\obj\Debug\net5.0\ExerciciosAula04Mod03.AssemblyInfo.cs
+C:\Users\tsfel\OneDrive\Documentos\IBRF\M2\modulo03\aula02\ExerciciosAula04Mod03\ExerciciosAula04Mod03\obj\Debug\net5.0\ExerciciosAula04Mod03.csproj.CoreCompileInputs.cache
+C:\Users\tsfel\OneDrive\Documentos\IBRF\M2\modulo03\aula02\ExerciciosAula04Mod03\ExerciciosAula04Mod03\obj\Debug\net5.0\ExerciciosAula04Mod03.dll
+C:\Users\tsfel\OneDrive\Documentos\IBRF\M2\modulo03\aula02\ExerciciosAula04Mod03\ExerciciosAula04Mod03\obj\Debug\net5.0\refint\ExerciciosAula04Mod03.dll
+C:\Users\tsfel\OneDrive\Documentos\IBRF\M2\modulo03\aula02\ExerciciosAula04Mod03\ExerciciosAula04Mod03\obj\Debug\net5.0\ExerciciosAula04Mod03.pdb
+C:\Users\tsfel\OneDrive\Documentos\IBRF\M2\modulo03\aula02\ExerciciosAula04Mod03\ExerciciosAula04Mod03\obj\Debug\net5.0\ExerciciosAula04Mod03.genruntimeconfig.cache
+C:\Users\tsfel\OneDrive\Documentos\IBRF\M2\modulo03\aula02\ExerciciosAula04Mod03\ExerciciosAula04Mod03\obj\Debug\net5.0\ref\ExerciciosAula04Mod03.dll
